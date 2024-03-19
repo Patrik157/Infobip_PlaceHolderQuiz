@@ -1,0 +1,46 @@
+{
+    "UserQuizScores": [
+      {
+        "Quiz": {
+          "Id": 33,
+          "Name": "novi kviz",
+          "Description": "novi kviz",
+          "MainCategory": {
+            "Id": 1,
+            "Name": "Unknown"
+          },
+          "Length": 5,
+          "IsPrivate": false
+        },
+        "Score": 2
+      },
+      {
+        "Quiz": {
+          "Id": 34,
+          "Name": "abcd",
+          "Description": "something",
+          "MainCategory": {
+            "Id": 2,
+            "Name": "Mythology"
+          },
+          "Length": 3,
+          "IsPrivate": true
+        },
+        "Score": 2
+      },
+      {
+        "Quiz": {
+          "Id": 12,
+          "Name": "quizname",
+          "Description": "best quiz",
+          "MainCategory": {
+            "Id": 7,
+            "Name": "Music"
+          },
+          "Length": 13,
+          "IsPrivate": false
+        },
+        "Score": 30
+      }
+    ]
+  }
